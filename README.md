@@ -12,7 +12,7 @@ collaborate effectively in practical settings.
 
 - 👩‍💻 Currently learning how to apply neural networks and using frameworks such as PyTorch for deep learning capabilities.
 - 🤝 Looking for open-source collaboration opportunities
-- 🌱 Very interested on Human-Computer Interaction (HCI) to make and enhance UI
+- 🌱 Very interested on Human-Computer Interaction (HCI) to create and enhance UI
   
 
 ## 🎨 Interests
