@@ -18,9 +18,8 @@ collaborate effectively in practical settings.
 ## 🎨 Interests
 * Traveling
 * Bodybuilding
-* Exploring current technological advances
 * Music Production
-* Reading books on Astrophysics, in particular cosmology
+* Astrophysics, Cosmology
 
 ## 🛠️ Skills
 
